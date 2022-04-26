@@ -8,3 +8,27 @@ Informações do projeto:
 * Heitor Castro Martins da Costa
 * Thiago Cardozo
 * Rafael Coelho Mendonça
+
+## Sumário
+- Informações do Projeto
+-- Participantes
+- Estrutura do Documento
+-- Introdução
+-- Problema
+-- Objetivos
+-- Justificativa
+-- Público-Alvo
+- Especificações do Projeto
+-- Personas e Mapas de Empatia
+-- Histórias de Usuários
+-- Requisitos
+--- Requisitos Funcionais
+--- Requisitos não Funcionais
+-- Restrições
+- Projeto de Interface
+-- User Flow
+-- Wireframes
+- Metodologia
+-- Divisão de Papéis
+-- Ferramentas
+-- Controle de Versão
