@@ -11,24 +11,24 @@ Informações do projeto:
 
 ## Sumário
 - Informações do Projeto
--- Participantes
+     - Participantes
 - Estrutura do Documento
      - Introdução
--- Problema
--- Objetivos
--- Justificativa
--- Público-Alvo
+     - Problema
+     - Objetivos
+     - Justificativa
+     - Público-Alvo
 - Especificações do Projeto
--- Personas e Mapas de Empatia
--- Histórias de Usuários
--- Requisitos
---- Requisitos Funcionais
---- Requisitos não Funcionais
--- Restrições
+     - Personas e Mapas de Empatia
+     - Histórias de Usuários
+     - Requisitos
+     -- Requisitos Funcionais
+     -- Requisitos não Funcionais
+     - Restrições
 - Projeto de Interface
--- User Flow
--- Wireframes
+     - User Flow
+     - Wireframes
 - Metodologia
--- Divisão de Papéis
--- Ferramentas
--- Controle de Versão
+     - Divisão de Papéis
+     - Ferramentas
+     - Controle de Versão
