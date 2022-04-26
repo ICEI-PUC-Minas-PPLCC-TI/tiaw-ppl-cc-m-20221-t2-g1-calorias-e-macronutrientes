@@ -22,8 +22,8 @@ Informações do projeto:
      - Personas e Mapas de Empatia
      - Histórias de Usuários
      - Requisitos
-     -- Requisitos Funcionais
-     -- Requisitos não Funcionais
+       - Requisitos Funcionais
+       - Requisitos não Funcionais
      - Restrições
 - Projeto de Interface
      - User Flow
