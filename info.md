@@ -13,7 +13,7 @@ Informações do projeto:
 - Informações do Projeto
 -- Participantes
 - Estrutura do Documento
--- Introdução
+        - Introdução
 -- Problema
 -- Objetivos
 -- Justificativa
