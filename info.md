@@ -33,7 +33,7 @@ Informações do projeto:
      - Ferramentas
      - Controle de Versão
 
-## :open_book: Introdução
+# Introdução
 A pandemia ressaltou o cuidado das pessoas com relação a saúde física e mental, e, a partir disso, a saúde tem se tornado o elemento mais informado, noticiado e buscado por todo o mundo, visto a necessidade de se cuidar perante a um vírus tão pequeno porém extremamente nocivo e alarmante para a sociedade global, além de ter reacendido tópicos importantes sobre a saúde mundial, como a obesidade.
 A partir disso, observa-se um movimento do mundo acentuado pela velocidade de troca de informações e de comunicação proporcionados pela internet em busca de melhor bem-estar corporal, por meio de uma melhor alimentação e manutenção de um bom porte físico.
 Dessa forma, verifica-se a necessidade de uma solução que busque auxiliar o usuário a buscar uma vida mais saudável por meio de um acompanhamento nutritivo de perfeito entendimento para ele, além de oferecer dicas e notícias sobre o mundo da alimentação e da nutrição.
