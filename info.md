@@ -71,15 +71,21 @@ Foram identificadas as seguintes histórias das personas:
 ### 🖊️ Requisitos Funcionais 
 | ID | Descrição | Prioridade |
 | --- | ---      | ---        |
-| RF-01 | O site deve apresentar uma seção do usuário que contenha três elementos: meta, calculadora e contato com nutricionista. | Alta |
-| RF-02 | O site deve apresentar uma thumbnail para a seção de notícias com a notícia mais relevante do momento. | Baixa |
-| RF-03 | Acompanhar o processo do usuário por meio de fotos tiradas por ele. | Baixa |
-| RF-04 | Calculadora funcional, interativa e simples de calorias. | Alta |
-| RF-05 | Área de criação de metas pelo usuário. |  Média |
-| RF-06 | Área educacional. | Baixa |
+| RF-1 | O site deve apresentar uma seção do usuário que contenha três elementos: meta, calculadora e contato com nutricionista. | Alta |
+| RF-2 | O site deve apresentar uma thumbnail para a seção de notícias com a notícia mais relevante do momento. | Baixa |
+| RF-3 | Acompanhar o processo do usuário por meio de fotos tiradas por ele. | Baixa |
+| RF-4 | Calculadora funcional, interativa e simples de calorias. | Alta |
+| RF-5 | Área de criação de metas pelo usuário. |  Média |
+| RF-6 | Área educacional. | Baixa |
 
 
 ### ⏹️ Requisitos Não Funcionais
+| ID | Descrição | Prioridade |
+| --- | ---      | ---        |
+| RNF-1 | Necessidade de criação de responsividade para o site visando abranger todos os tipos de usuários. | Alta |
+| RNF-2 | O site deve ser uniforme e conciso ao máximo para não dificultar o entendimento do usuário ao acessar o site | Média |
+| RNF-3 | O site deve ser compatível com todos os principais navegadores do mercado | Média |
+| RNF-4 | Vídeos e fotos do site | Média |
 
 ### ❗Restrições
 
