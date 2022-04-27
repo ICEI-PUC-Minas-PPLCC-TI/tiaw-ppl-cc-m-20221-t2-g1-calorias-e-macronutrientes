@@ -33,7 +33,7 @@ Informações do projeto:
      - Ferramentas
      - Controle de Versão
 
-# Introdução
+# 1. Introdução
 A pandemia ressaltou o cuidado das pessoas com relação a saúde física e mental, e, a partir disso, a saúde tem se tornado o elemento mais informado, noticiado e buscado por todo o mundo, visto a necessidade de se cuidar perante a um vírus tão pequeno porém extremamente nocivo e alarmante para a sociedade global, além de ter reacendido tópicos importantes sobre a saúde mundial, como a obesidade.
 A partir disso, observa-se um movimento do mundo acentuado pela velocidade de troca de informações e de comunicação proporcionados pela internet em busca de melhor bem-estar corporal, por meio de uma melhor alimentação e manutenção de um bom porte físico.
 Dessa forma, verifica-se a necessidade de uma solução que busque auxiliar o usuário a buscar uma vida mais saudável por meio de um acompanhamento nutritivo de perfeito entendimento para ele, além de oferecer dicas e notícias sobre o mundo da alimentação e da nutrição.
@@ -50,4 +50,9 @@ Em estudo realizado pelo IBGE, verifica-se que uma em cada 4 pessoas de 18 anos 
 ### :busts_in_silhouette: Público alvo
 O foco do trabalho é em pessoas empenhadas a aprimorar sua alimentação e consequentemente ter um melhor estilo de vida e saúde. Tais pessoas são diversas, desde pessoas que querem perder peso, até pessoas que desejam ganhar massa magra ou até manter sua forma física atual.
 Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos que se encontram insatisfeitos com sua saúde e desejam de uma forma prática e informativa aprimorar sua saúde por meio de criação de dietas.
+# 2. Especificações do projeto
+👤Personas:
+![image](https://user-images.githubusercontent.com/83238593/165411360-b988355c-1b32-48dc-bda5-f59389806eab.png)
+![image](https://user-images.githubusercontent.com/83238593/165411595-e8bd5a1d-53e1-4ff1-8f48-c43aeb4130ac.png)
+
 
