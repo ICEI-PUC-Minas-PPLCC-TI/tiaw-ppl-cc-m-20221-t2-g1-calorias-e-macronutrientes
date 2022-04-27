@@ -51,8 +51,11 @@ Em estudo realizado pelo IBGE, verifica-se que uma em cada 4 pessoas de 18 anos 
 O foco do trabalho é em pessoas empenhadas a aprimorar sua alimentação e consequentemente ter um melhor estilo de vida e saúde. Tais pessoas são diversas, desde pessoas que querem perder peso, até pessoas que desejam ganhar massa magra ou até manter sua forma física atual.
 Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos que se encontram insatisfeitos com sua saúde e desejam de uma forma prática e informativa aprimorar sua saúde por meio de criação de dietas.
 # 2. Especificações do projeto
-👤Personas:
+## 👤Personas:
+
 ![image](https://user-images.githubusercontent.com/83238593/165411360-b988355c-1b32-48dc-bda5-f59389806eab.png)
 ![image](https://user-images.githubusercontent.com/83238593/165411595-e8bd5a1d-53e1-4ff1-8f48-c43aeb4130ac.png)
+![image](https://user-images.githubusercontent.com/83238593/165411906-64346efa-c870-487c-8ba1-9ef0dc21fd7b.png)
+
 
 
