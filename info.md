@@ -69,6 +69,15 @@ Foram identificadas as seguintes histórias das personas:
 ## 📑 Requisitos
 
 ### 🖊️ Requisitos Funcionais 
+| ID | Descrição | Prioridade |
+| --- | ---      | ---        |
+| RF-01 | O site deve apresentar uma seção do usuário que contenha três elementos: meta, calculadora e contato com nutricionista. | Alta |
+| RF-02 | O site deve apresentar uma thumbnail para a seção de notícias com a notícia mais relevante do momento. | Baixa |
+| RF-03 | Acompanhar o processo do usuário por meio de fotos tiradas por ele. | Baixa |
+| RF-04 | Calculadora funcional, interativa e simples de calorias. | Alta |
+| RF-05 | Área de criação de metas pelo usuário. |  Média |
+| RF-06 | Área educacional. | Baixa |
+
 
 ### ⏹️ Requisitos Não Funcionais
 
