@@ -66,5 +66,10 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 Foram identificadas as seguintes histórias das personas:
 ![image](https://user-images.githubusercontent.com/83238593/165413040-2d477b70-e6af-46de-9930-fca9a609b7a1.png)
 
+## 📑 Requisitos
 
+### 🖊️ Requisitos Funcionais 
 
+### ⏹️ Requisitos Não Funcionais
+
+### ❗Restrições
