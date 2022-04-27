@@ -85,7 +85,3 @@ Foram identificadas as seguintes histórias das personas:
 | Gerenciamento do projeto | Trello | https://trello.com/b/vubJxHK2/macronutrientes |
 
 
-|   Esquerda   |  Centralizado  |    Direita    |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
