@@ -82,3 +82,9 @@ Foram identificadas as seguintes histórias das personas:
 | Documentos do projeto | Google Docs | https://docs.google.com/document/d/1vz5nsWCO0S2FL_dkqcB8ds3wARrqtqdOc125B_XxVGk/edit# |
 | Projeto de Interface e Wireframes | MarvelApp | ... |
 | Gerenciamento do projeto | Trello | https://trello.com/b/vubJxHK2/macronutrientes |
+
+
+|   Esquerda   |  Centralizado  |    Direita    |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
