@@ -97,6 +97,7 @@ Foram identificadas as seguintes histórias das personas:
 | RE-05 | Cada alteração realizada pelos devs deve ser revisada pelo grupo todo e registrada no Trello, para acompanhamento do grupo inteiro. |
 | RE-06 | Reuniões diárias para definição do trabalhado no dia devem ser realizadas. |
 | RE-07 | Apesar da divisão pré-estabelecida de funções, todos devem auxiliar no desenvolvimento do código, visto que essa é a parte mais trabalhosa e difícil. | 
+
 # 3. Metodologia
 
 ## 👥 Relações de ambientes de trabalho
@@ -110,11 +111,15 @@ Foram identificadas as seguintes histórias das personas:
 
 ## 🙍‍♂️ Gerenciamento das funções
 A equipe está organizada da seguinte maneira: 
-- Scrum Master
-- Product Owner
+- Scrum Master: Rafael Coelho de Mendonça
+- Product Owner: André Arantes Lopes
 - Equipe de desenvolvimento
-     - ...
-     - ...
+     - André Arantes Lopes (Desenvolvedor Front End)
+     - Rafael Coelho de Mendonça (Desenvolvedor Front End)
+     - Thiago Cardozo (Desenvolvedor Front End)
+     - Thiago Cardozo (Analista de Negócios)
+     - Heitor Castro Martins da Costa (Desenvolvedor Front End)
+     - Heitor Castro Martins da Costa (Designer)
 
 O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
