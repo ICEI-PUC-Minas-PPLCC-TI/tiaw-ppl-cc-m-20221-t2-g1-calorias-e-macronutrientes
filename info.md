@@ -123,9 +123,13 @@ A equipe está organizada da seguinte maneira:
 
 O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
-# 4. Projeto de Interface (WireFrame)
+# 4. Projeto de Interface
+## 🧱 Wireframe
 ![wireframe](https://user-images.githubusercontent.com/83238593/165588774-cd00d06a-1952-4858-b933-ffb003745f4a.jpeg)
 Esse é o protótipo do site do projeto.
+## ✴️ Userflow
+![image](https://user-images.githubusercontent.com/83238593/165599957-221f5829-5054-48b2-8e91-bd474b5d15c5.png)
+Essa é a interatividade do site.
 
 # 5. Referências
 - https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/10/pesquisa-do-ibge-mostra-aumento-da-obesidade-entre-adultos
