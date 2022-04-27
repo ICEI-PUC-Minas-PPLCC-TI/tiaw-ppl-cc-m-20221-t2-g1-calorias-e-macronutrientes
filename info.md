@@ -83,7 +83,7 @@ Foram identificadas as seguintes histórias das personas:
 | Documentos do projeto | Google Docs | https://docs.google.com/document/d/1vz5nsWCO0S2FL_dkqcB8ds3wARrqtqdOc125B_XxVGk/edit# |
 | Projeto de Interface e Wireframes | MarvelApp | https://andr641965.invisionapp.com/freehand/Untitled-zfCfIOqaT?dsid_h=61e5686eb90ec1b3c3d9951fcf039be30b316c5b7e65630c4138a9c8e92791c2&uid_h=6d6c7a872d8ba362745d9291ff0d90153f069ef1469a25cf28fed6cae346c1e9 |
 | Gerenciamento do projeto | Trello | https://trello.com/b/vubJxHK2/macronutrientes |
-| Hospedagem do site | ... | ... |
+| Hospedagem do site | HerokuApp | ... |
 
 ## 🙍‍♂️ Gerenciamento das funções
 A equipe está organizada da seguinte maneira: 
