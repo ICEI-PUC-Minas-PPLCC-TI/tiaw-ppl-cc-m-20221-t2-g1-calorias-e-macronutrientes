@@ -73,3 +73,12 @@ Foram identificadas as seguintes histórias das personas:
 ### ⏹️ Requisitos Não Funcionais
 
 ### ❗Restrições
+
+# 3. Metodologia
+
+## 👥 Relações de ambientes de trabalho
+| Ambiente | Plataforma | Link de acesso |
+| Repositório do código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t2-g1-calorias-e-macronutrientes/blob/master/info.md |
+| Documentos do projeto | Google Docs | https://docs.google.com/document/d/1vz5nsWCO0S2FL_dkqcB8ds3wARrqtqdOc125B_XxVGk/edit# |
+| Projeto de Interface e Wireframes | MarvelApp | ... |
+| Gerenciamento do projeto | Trello | https://trello.com/b/vubJxHK2/macronutrientes |
