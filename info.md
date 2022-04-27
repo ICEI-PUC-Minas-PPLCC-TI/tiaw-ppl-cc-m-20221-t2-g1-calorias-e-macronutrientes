@@ -86,11 +86,11 @@ Foram identificadas as seguintes histórias das personas:
 
 ## 🙍‍♂️ Gerenciamento das funções
 A equipe está organizada da seguinte maneira: 
-     - Scrum Master
-     - Product Owner
-     - Equipe de desenvolvimento
-       - ...
-       - ...
+- Scrum Master
+- Product Owner
+- Equipe de desenvolvimento
+     - ...
+     - ...
 O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
 # 4. Projeto de Interface (WireFrame)
