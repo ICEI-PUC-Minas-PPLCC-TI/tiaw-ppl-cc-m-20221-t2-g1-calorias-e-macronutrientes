@@ -96,3 +96,7 @@ A equipe está organizada da seguinte maneira:
 O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
 # 4. Projeto de Interface (WireFrame)
+# 5. Referências
+- https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/10/pesquisa-do-ibge-mostra-aumento-da-obesidade-entre-adultos
+- https://www.cnnbrasil.com.br/saude/como-a-pandemia-e-o-isolamento-influenciam-os-habitos-alimentares-do-brasileiro/
+- https://veja.abril.com.br/saude/dietas-com-cardapios-flexiveis-fazem-cada-vez-mais-sucesso/
