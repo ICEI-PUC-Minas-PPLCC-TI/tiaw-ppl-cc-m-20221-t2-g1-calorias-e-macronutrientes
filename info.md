@@ -57,5 +57,11 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 ![image](https://user-images.githubusercontent.com/83238593/165411595-e8bd5a1d-53e1-4ff1-8f48-c43aeb4130ac.png)
 ![image](https://user-images.githubusercontent.com/83238593/165411906-64346efa-c870-487c-8ba1-9ef0dc21fd7b.png)
 
+## 🗺️ Mapas de empatia:
+![image](https://user-images.githubusercontent.com/83238593/165412620-1b935799-52ec-4de0-aba3-2fe0f22cd1a1.png)
+![image](https://user-images.githubusercontent.com/83238593/165412666-9aeda7c5-233a-4e6c-b5c5-43e33eb83351.png)
+![image](https://user-images.githubusercontent.com/83238593/165412714-b0cb6784-921c-40f8-be66-e0defa9029b9.png)
+
+
 
 
