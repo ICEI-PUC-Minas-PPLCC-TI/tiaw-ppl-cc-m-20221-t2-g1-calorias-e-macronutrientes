@@ -84,4 +84,13 @@ Foram identificadas as seguintes histórias das personas:
 | Projeto de Interface e Wireframes | MarvelApp | https://andr641965.invisionapp.com/freehand/Untitled-zfCfIOqaT?dsid_h=61e5686eb90ec1b3c3d9951fcf039be30b316c5b7e65630c4138a9c8e92791c2&uid_h=6d6c7a872d8ba362745d9291ff0d90153f069ef1469a25cf28fed6cae346c1e9 |
 | Gerenciamento do projeto | Trello | https://trello.com/b/vubJxHK2/macronutrientes |
 
+## 🙍‍♂️ Gerenciamento das funções
+A equipe está organizada da seguinte maneira: 
+     - Scrum Master
+     - Product Owner
+     - Equipe de desenvolvimento
+       - ...
+       - ...
+O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
+# 4. Projeto de Interface (WireFrame)
