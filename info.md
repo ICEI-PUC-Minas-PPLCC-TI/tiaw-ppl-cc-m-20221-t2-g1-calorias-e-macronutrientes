@@ -70,7 +70,7 @@ Foram identificadas as seguintes histórias das personas:
 
 ### 🖊️ Requisitos Funcionais 
 | ID | Descrição | Prioridade |
-| --- | ---      | ---        |
+| ---  | ---      | ---        |
 | RF-1 | O site deve apresentar uma seção do usuário que contenha três elementos: meta, calculadora e contato com nutricionista. | Alta |
 | RF-2 | O site deve apresentar uma thumbnail para a seção de notícias com a notícia mais relevante do momento. | Baixa |
 | RF-3 | Acompanhar o processo do usuário por meio de fotos tiradas por ele. | Baixa |
@@ -81,14 +81,22 @@ Foram identificadas as seguintes histórias das personas:
 
 ### ⏹️ Requisitos Não Funcionais
 | ID | Descrição | Prioridade |
-| --- | ---      | ---        |
+| ---   | ---      | ---        |
 | RNF-1 | Necessidade de criação de responsividade para o site visando abranger todos os tipos de usuários. | Alta |
 | RNF-2 | O site deve ser uniforme e conciso ao máximo para não dificultar o entendimento do usuário ao acessar o site | Média |
 | RNF-3 | O site deve ser compatível com todos os principais navegadores do mercado | Média |
 | RNF-4 | Vídeos e fotos do site | Média |
 
 ### ❗Restrições
-
+| ID | Descrição | 
+| ---   | ---     |
+| RE-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020. | 
+| RE-02 | O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.| 
+| RE-03 | O trabalho deve ser entregue em 4 sprints. | 
+| RE-04 | O site deve ser realizado em HTML, CSS, e JavaScript. |
+| RE-05 | Cada alteração realizada pelos devs deve ser revisada pelo grupo todo e registrada no Trello, para acompanhamento do grupo inteiro. |
+| RE-06 | Reuniões diárias para definição do trabalhado no dia devem ser realizadas. |
+| RE-07 | Apesar da divisão pré-estabelecida de funções, todos devem auxiliar no desenvolvimento do código, visto que essa é a parte mais trabalhosa e difícil. | 
 # 3. Metodologia
 
 ## 👥 Relações de ambientes de trabalho
