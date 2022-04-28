@@ -125,11 +125,11 @@ O grupo está fazendo uso do Trello para acompanhamento, organização e consequ
 
 # 4. Projeto de Interface
 ## 🧱 Wireframe
-![wireframe](https://user-images.githubusercontent.com/83238593/165588774-cd00d06a-1952-4858-b933-ffb003745f4a.jpeg)
-Esse é o protótipo do site do projeto.
+![image](https://user-images.githubusercontent.com/83238593/165815413-ae79bc11-f43c-4b03-8d6a-f1f9cbfc41ae.png)
+Esse é o protótipo do site do projeto. São 5 áreas que o usuário terá acesso de forma simples e prática para aperfeiçoar sua dieta e melhorar sua saúde.
 ## ✴️ Userflow
-![image](https://user-images.githubusercontent.com/83238593/165599957-221f5829-5054-48b2-8e91-bd474b5d15c5.png)
-Essa é a interatividade do site.
+![image](https://user-images.githubusercontent.com/83238593/165815460-3a0aae4e-10c7-4c56-ac6b-a16307f16790.png)
+Essa é a interatividade do site. Ele se interliga, possibilitando ao usuário várias experiências no site.
 
 # 5. Referências
 - https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/10/pesquisa-do-ibge-mostra-aumento-da-obesidade-entre-adultos
