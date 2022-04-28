@@ -70,6 +70,7 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 | Marco Veloso | desejo ter acesso a uma nutricionista | para que me auxilie na criação de uma dieta |
 | Marco Veloso | estabelecer uma meta | para que eu possa ter um foco maior no meu objetivo |
 | Matheus Dias | acesso a uma calculadora de cálculo de calorias | para que possa atingir a dieta mais facilmente |
+| Matheus Dias | ter um canal de conversa com um nutricionista | para que possa criar e adaptar uma dieta para meus objetivos |
 
 ## 📑 Requisitos
 
