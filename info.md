@@ -66,6 +66,10 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 | Eu como... (persona) | ... quero/desejo ... | ... para ... |
 | ---                  | ---                  | ---          |
 | Willian Souza | quero uma calculadora de calorias e macronutrientes | para que eu possa saber quantas calorias já ingeri |
+| Willian Souza | acesso a uma área educacional | ter uma melhor compreensão e entendimento do processo da evolução |
+| Marco Veloso | desejo ter acesso a uma nutricionista | para que me auxilie na criação de uma dieta |
+| Marco Veloso | estabelecer uma meta | para que eu possa ter um foco maior no meu objetivo |
+| Matheus Dias | acesso a uma calculadora de cálculo de calorias | para que possa atingir a dieta mais facilmente |
 
 ## 📑 Requisitos
 
