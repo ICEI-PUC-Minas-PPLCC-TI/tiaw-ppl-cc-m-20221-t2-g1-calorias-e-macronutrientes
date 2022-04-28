@@ -100,13 +100,13 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 ### ❗Restrições
 | ID | Descrição | 
 | ---   | ---     |
-| RE-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020. | 
-| RE-02 | O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.| 
-| RE-03 | O trabalho deve ser entregue em 4 sprints. | 
-| RE-04 | O site deve ser realizado em HTML, CSS, e JavaScript. |
-| RE-05 | Cada alteração realizada pelos devs deve ser revisada pelo grupo todo e registrada no Trello, para acompanhamento do grupo inteiro. |
-| RE-06 | Reuniões diárias para definição do trabalhado no dia devem ser realizadas. |
-| RE-07 | Apesar da divisão pré-estabelecida de funções, todos devem auxiliar no desenvolvimento do código, visto que essa é a parte mais trabalhosa e difícil. | 
+| RE-1   | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020. | 
+| RE-2   | O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.| 
+| RE-3   | O trabalho deve ser entregue em 4 sprints. | 
+| RE-4   | O site deve ser realizado em HTML, CSS, e JavaScript. |
+| RE-5   | Cada alteração realizada pelos devs deve ser revisada pelo grupo todo e registrada no Trello, para acompanhamento do grupo inteiro. |
+| RE-6   | Reuniões diárias para definição do trabalhado no dia devem ser realizadas. |
+| RE-7   | Apesar da divisão pré-estabelecida de funções, todos devem auxiliar no desenvolvimento do código, visto que essa é a parte mais trabalhosa e difícil. | 
 
 # 3. Metodologia
 
