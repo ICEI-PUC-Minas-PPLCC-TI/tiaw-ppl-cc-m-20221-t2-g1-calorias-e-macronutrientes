@@ -63,8 +63,9 @@ Dessa forma, o público alvo do site são homens e mulheres entre 18 e 40 anos q
 ![image](https://user-images.githubusercontent.com/83238593/165412714-b0cb6784-921c-40f8-be66-e0defa9029b9.png)
 
 ## 🕐 Histórias de Usuários
-Foram identificadas as seguintes histórias das personas:
-![image](https://user-images.githubusercontent.com/83238593/165413040-2d477b70-e6af-46de-9930-fca9a609b7a1.png)
+| Eu como... (persona) | ... quero/desejo ... | ... para ... |
+| ---                  | ---                  | ---          |
+| Willian Souza | quero uma calculadora de calorias e macronutrientes | para que eu possa saber quantas calorias já ingeri |
 
 ## 📑 Requisitos
 
