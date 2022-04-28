@@ -134,6 +134,10 @@ A equipe está organizada da seguinte maneira:
  ## Processo
 O grupo está fazendo uso do Trello para acompanhamento, organização e consequente desenvolvimento homogêneo do projeto. Link disponível na tabela acima.
 
+## 🧠 Design Thinking
+Realizamos um compilado do Design Thinking feito pelo nosso grupo:
+[Design_Thinking.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t2-g1-calorias-e-macronutrientes/files/8585301/Design_Thinking.pdf)
+
 # 4. Projeto de Interface
 ## 🧱 Wireframe
 ![image](https://user-images.githubusercontent.com/83238593/165815413-ae79bc11-f43c-4b03-8d6a-f1f9cbfc41ae.png)
