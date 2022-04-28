@@ -138,6 +138,9 @@ O grupo está fazendo uso do Trello para acompanhamento, organização e consequ
 Realizamos um compilado do Design Thinking feito pelo nosso grupo:
 [Design_Thinking.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t2-g1-calorias-e-macronutrientes/files/8585301/Design_Thinking.pdf)
 
+## Acesso à documentação e a apresentação
+Documentação: https://docs.google.com/document/d/1vz5nsWCO0S2FL_dkqcB8ds3wARrqtqdOc125B_XxVGk/edit#heading=h.ldlcs7z6fz21
+Apresentação:
 # 4. Projeto de Interface
 ## 🧱 Wireframe
 ![image](https://user-images.githubusercontent.com/83238593/165815413-ae79bc11-f43c-4b03-8d6a-f1f9cbfc41ae.png)
